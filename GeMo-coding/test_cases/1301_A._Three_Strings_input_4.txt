@@ -1,0 +1,13 @@
+4
+aaa
+bbb
+ccc
+abc
+bca
+cca
+aabb
+bbaa
+baba
+iim
+mii
+iim

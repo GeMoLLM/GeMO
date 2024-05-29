@@ -1,0 +1,6 @@
+4
+SVO
+SVO-&gt;CDG
+LHR-&gt;SVO
+SVO-&gt;LHR
+CDG-&gt;SVO

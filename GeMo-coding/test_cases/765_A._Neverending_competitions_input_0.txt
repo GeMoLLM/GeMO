@@ -1,0 +1,5 @@
+3
+SVO
+SVO-&gt;HKT
+HKT-&gt;SVO
+SVO-&gt;RAP
